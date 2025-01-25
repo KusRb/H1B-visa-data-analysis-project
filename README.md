@@ -1,7 +1,5 @@
 # H1B Visa Data Analysis (2020-2024)
 
-This project provides complete **exploratory data analysis of red wine data**. The main purpose of the project is to uncover insights about the factor influencing the quality of red wine.
-
 ## Introduction
 This analysis delves into H1B visa application data spanning 2020 to 2024, aiming to uncover key trends and patterns in the certification process. The dataset comprises 3.56 million records with 96 features, encompassing crucial information such as case status, job titles, employer details, wage rates, worksite locations, and more. By examining this comprehensive dataset, we aim to gain a deeper understanding of the factors influencing H1B visa certifications, the evolving landscape of foreign skilled workers in the US, and the dynamics of the tech-driven labor market.
 
